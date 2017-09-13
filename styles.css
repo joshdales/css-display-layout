@@ -22,6 +22,13 @@ aside {
   background-color: #ffd52b;
 }
 
+footer {
+  background-color: black;
+  color: white;
+  height: 15px;
+  text-align: center;
+}
+
 .btn {
   font-weight: bold;
   text-decoration: none;
@@ -38,6 +45,7 @@ aside {
 
 .image {
   display: inline-block;
+  margin: 15px 15px;
 }
 
 .btn>a {
@@ -52,4 +60,8 @@ aside {
 
 aside>a {
   padding: 0px 5px;
+}
+
+footer>h6 {
+  font-weight: normal;
 }
