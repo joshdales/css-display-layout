@@ -16,6 +16,10 @@ ul {
   margin-top: 0px;
 }
 
+main {
+  text-align: center;
+}
+
 aside {
   padding: 7px 0px;
   text-align: center;
@@ -64,6 +68,6 @@ aside>a {
 
 footer>h6 {
   padding: 10px;
-  margin-bottom: 1px;
+  margin-top: 10px;
   font-weight: normal;
 }
