@@ -25,7 +25,17 @@ ul {
   padding: 15px 10px;
 }
 
+.banner {
+  background-color: #74fcd2;
+  padding: 15px 5px 15px;
+}
+
 .btn>a {
   text-decoration: none;
   color: white;
+}
+
+.banner>span {
+  font-weight: bold;
+  border-bottom: 3px solid #ffd52b;
 }
