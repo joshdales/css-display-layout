@@ -16,6 +16,12 @@ ul {
   margin-top: 0px;
 }
 
+aside {
+  padding: 7px 0px;
+  text-align: center;
+  background-color: #ffd52b;
+}
+
 .btn {
   font-weight: bold;
   text-decoration: none;
@@ -30,6 +36,10 @@ ul {
   padding: 15px 5px 15px;
 }
 
+.image {
+  display: inline-block;
+}
+
 .btn>a {
   text-decoration: none;
   color: white;
@@ -38,4 +48,8 @@ ul {
 .banner>span {
   font-weight: bold;
   border-bottom: 3px solid #ffd52b;
+}
+
+aside>a {
+  padding: 0px 5px;
 }
