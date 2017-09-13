@@ -25,7 +25,7 @@ aside {
 footer {
   background-color: black;
   color: white;
-  height: 15px;
+  height: 33px;
   text-align: center;
 }
 
@@ -45,7 +45,7 @@ footer {
 
 .image {
   display: inline-block;
-  margin: 15px 15px;
+  margin: 10px 6px;
 }
 
 .btn>a {
@@ -63,5 +63,7 @@ aside>a {
 }
 
 footer>h6 {
+  padding: 10px;
+  margin-bottom: 1px;
   font-weight: normal;
 }
